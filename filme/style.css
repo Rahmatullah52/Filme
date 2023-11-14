@@ -265,7 +265,7 @@ h1{
     background-color: black;                 make it change able
 } */
 .toggle-ball.active{
-    background-color: white;
+    background-color: rgb(150, 108, 108);
     transform: translateX(-20px);
 }
 @media only screen and (max-width:900px){
