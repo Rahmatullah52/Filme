@@ -28,7 +28,7 @@ body{
     color: yellow;
 }
 .logo:hover{
-    color: white;
+    color: rosybrown;
     transition: 2s;
     cursor: pointer;
 }
